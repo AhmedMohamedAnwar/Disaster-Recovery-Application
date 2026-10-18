@@ -1,3 +1,4 @@
+![AWS DR Architecture](./Diagram.png )
 # AWS Multi-Region Disaster Recovery Architecture
 
 This project shows how to keep a web application available if the
