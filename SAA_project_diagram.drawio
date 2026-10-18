@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Page-1" id="8zBaIvkbLLm5ekV8AYQI">
-    <mxGraphModel dx="4030" dy="2553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3490" dy="2194" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -424,19 +424,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JRqWQ1MDt3AQufQtVj_M-180" connectable="0" parent="JRqWQ1MDt3AQufQtVj_M-7" style="group" value="" vertex="1">
-          <mxGeometry height="158" width="163" x="1148.5" y="1397" as="geometry" />
+          <mxGeometry height="126" width="163" x="1145" y="1429.5" as="geometry" />
         </mxCell>
-        <mxCell id="JRqWQ1MDt3AQufQtVj_M-181" parent="JRqWQ1MDt3AQufQtVj_M-180" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.aurora;" value="" vertex="1">
-          <mxGeometry height="123" width="117" x="23" as="geometry" />
-        </mxCell>
-        <mxCell id="JRqWQ1MDt3AQufQtVj_M-182" parent="JRqWQ1MDt3AQufQtVj_M-180" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;color: rgb(35, 47, 62); font-weight: 700;&quot;&gt;Amazon&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(35, 47, 62); font-weight: 700;&quot;&gt;Aurora&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="39" width="163" y="119" as="geometry" />
+        <mxCell id="JRqWQ1MDt3AQufQtVj_M-181" parent="JRqWQ1MDt3AQufQtVj_M-180" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.aurora;" value="0" vertex="1">
+          <mxGeometry height="98.08860759493672" width="117" x="23" as="geometry" />
         </mxCell>
         <mxCell id="JRqWQ1MDt3AQufQtVj_M-183" parent="JRqWQ1MDt3AQufQtVj_M-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Amazon Aurora is HA by default by 6 data replica distributed on 3 AZs&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="93" width="301" x="1082.5" y="1564" as="geometry" />
         </mxCell>
-        <mxCell id="JRqWQ1MDt3AQufQtVj_M-184" parent="JRqWQ1MDt3AQufQtVj_M-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;color: rgb(35, 47, 62); font-weight: 700;&quot;&gt;Global Amazon&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(35, 47, 62); font-weight: 700;&quot;&gt;Aurora&amp;nbsp;&lt;br&gt;Secondary&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="39" width="229.5" x="1124" y="1344" as="geometry" />
+        <mxCell id="JRqWQ1MDt3AQufQtVj_M-184" parent="JRqWQ1MDt3AQufQtVj_M-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;color: rgb(35, 47, 62); font-weight: 700;&quot;&gt;Global Amazon&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(35, 47, 62); font-weight: 700;&quot;&gt;Aurora&amp;nbsp;&lt;br&gt;Read Replica in Secondary Region&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="414.5" x="1006" y="1347" as="geometry" />
         </mxCell>
         <mxCell id="JRqWQ1MDt3AQufQtVj_M-294" parent="JRqWQ1MDt3AQufQtVj_M-7" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.eip_elastic_ip_address;" value="" vertex="1">
           <mxGeometry height="46.5" width="47.400000000000006" x="2095" y="626" as="geometry" />
@@ -509,8 +506,8 @@
         <mxCell id="IOMFxn5sds09V_mKVcMA-129" parent="JRqWQ1MDt3AQufQtVj_M-7" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="112" width="112" x="1997" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="IOMFxn5sds09V_mKVcMA-135" parent="JRqWQ1MDt3AQufQtVj_M-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Lambda Function&lt;/b&gt;&lt;div&gt;&lt;b&gt;Increase scale of the ASG&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="221" x="1767" y="326" as="geometry" />
+        <mxCell id="IOMFxn5sds09V_mKVcMA-135" parent="JRqWQ1MDt3AQufQtVj_M-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Lambda Function&lt;/b&gt;&lt;div&gt;&lt;b&gt;Upgrade the Aurora from read replica to Primary&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="295" x="1693" y="326" as="geometry" />
         </mxCell>
         <mxCell id="JRqWQ1MDt3AQufQtVj_M-160" edge="1" parent="JRqWQ1MDt3AQufQtVj_M-4" source="JRqWQ1MDt3AQufQtVj_M-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;strokeWidth=4;" target="JRqWQ1MDt3AQufQtVj_M-152">
           <mxGeometry relative="1" as="geometry">
